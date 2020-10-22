@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my ePortfolio 
 
-I'm glad you are here. I plan to talk about ...
+This is a collection of all the projects and the learning outcomes of the MSc in Cybersecurity I'm currently pursuing. 
